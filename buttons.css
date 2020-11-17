@@ -1,0 +1,22 @@
+body{
+	background-color: gray;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: 600px;
+}
+
+#container{
+	height: 600px;
+	width: 600px;
+	margin: 0 auto;
+}
+
+button{
+	background-color: green;
+}
+
+#number{
+	position: absolute;
+	top: 470px;
+	right: 300px;
+}
